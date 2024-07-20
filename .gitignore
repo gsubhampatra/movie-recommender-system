@@ -1,0 +1,43 @@
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
+# Python
+*.py[cod]
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.VENV/
+
+# Jupyter Notebook
+.ipynb
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PyCharm
+.idea/
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Streamlit Cache
+.streamlit/
+
+# Data Files
+movies.pkl
+similarity.pkl
+
+# Logs
+*.log
